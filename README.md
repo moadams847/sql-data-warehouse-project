@@ -6,6 +6,11 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ---
 ## 📖 Project Overview
 
+## 🏗️ Data Architecture
+
+The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
+![Data Architecture](docs/achitecture_flow.png)
+
 This project involves:
 
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
